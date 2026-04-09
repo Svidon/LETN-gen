@@ -2,7 +2,7 @@
 
 ---
 
-In this repository we include the data and the code for the generation of labelled temporal networks with the LETN method, presented in [this article]([https://doi.org/10.48550/arXiv.2501.07327](https://doi.org/10.1007/s41109-025-00731-w)).
+In this repository we include the data and the code for the generation of labelled temporal networks with the LETN method, presented in [this article](https://doi.org/10.1007/s41109-025-00731-w).
 
 Our method takes as input a temporal network, and looks at local patterns, grouping patterns of nodes with the same attribute, thus resulting in a generation that takes into account communities when the attribute is the community the nodes belong to.
 
